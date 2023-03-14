@@ -6,13 +6,12 @@ Cursando Engenharia da computação no CIn-UFPE, nas horas vagas estudo desenvol
 
 <img align="right" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FbGgsc5mWoryfgKBx1u%2Fgiphy.gif&f=1&nofb=1&ipt=e643e1b66178a9bce9cbcc4ee1ad0a2f398393b535d04c5deaf65d803ce3fed6&ipo=images" />
 
-```js
-import Developer from 'Ariel';
-class SobreMim extends Developer {
-  nome     = 'Ariel Vieira';
-  area    = 'Computer engineering';
-  trabalho  = 'CIn-UFPE';
-  local = 'Recife-PE';
+```python
+sobre_mim = {
+  nome     : 'Ariel Vieira';
+  Curso    : 'Computer Engineering';
+  Estudos  : 'CIn-UFPE';
+  local : 'Recife-PE';
 }
 ```
 
