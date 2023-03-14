@@ -1,6 +1,6 @@
 ### Olá 👋, sou Ariel
 
-Cursando Engenharia da computação no CIn-UFPE, nas horas vagas estudo desenvolvimento de jogos.
+Curso Engenharia da computação no CIn-UFPE, nas horas vagas estudo desenvolvimento de jogos e linguagens que me interessam.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Informações
 
