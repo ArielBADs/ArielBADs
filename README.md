@@ -2,7 +2,7 @@
 
 Cursando Engenharia da computação no CIn-UFPE, nas horas vagas estudo desenvolvimento de jogos.
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Informações
 
 <img align="right" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FbGgsc5mWoryfgKBx1u%2Fgiphy.gif&f=1&nofb=1&ipt=e643e1b66178a9bce9cbcc4ee1ad0a2f398393b535d04c5deaf65d803ce3fed6&ipo=images" />
 
