@@ -37,7 +37,7 @@ class SobreMim extends Developer {
 </a>
 </div>
 
-[twitter]: https://twitter.com/ArielVieira12
+[twitter]: https://twitter.com/ArielVieira19
 [instagram]: https://www.instagram.com/arielvieira_ofc
 [linkedin]: https://www.linkedin.com/in/ariel-vieira-32aa5b232
 <br>
