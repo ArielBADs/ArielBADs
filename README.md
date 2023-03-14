@@ -8,10 +8,10 @@ Cursando Engenharia da computação no CIn-UFPE, nas horas vagas estudo desenvol
 
 ```python
 sobre_mim = {
-  'nome'     : "Ariel Vieira";
-  'Curso'    : "Engenharia da Computação";
-  'Estudos'  : "CIn-UFPE";
-  'local'    : "Recife-PE";
+  'nome'     : "Ariel Vieira",
+  'Curso'    : "Engenharia da Computação",
+  'Estudos'  : "CIn-UFPE",
+  'local'    : "Recife-PE"
 }
 ```
 
