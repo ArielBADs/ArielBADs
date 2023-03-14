@@ -49,4 +49,4 @@ class SobreMim extends Developer {
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-![Snake animation](https://github.com/MatIketani/MatIketani/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Asmit2952/Asmit2952/28523ac12320984be48abc487bb6e1a83ec5947a/github-contribution-grid-snake.svg)
