@@ -45,7 +45,7 @@ sobre_mim = {
 [linkedin]: https://www.linkedin.com/in/ariel-vieira-32aa5b232
 <br>
 
-#### Rede Sociais
+#### Redes Sociais
 
 🐦 [Twitter][twitter] **|** 
 📷 [Instagram][instagram] **|** 
