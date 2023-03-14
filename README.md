@@ -30,10 +30,10 @@ class SobreMim extends Developer {
 <div>
  <center>
 <a href="https://github.com/ArielBADs">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBADs&layout=compact&langs_count=7&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBADs&layout=compact&langs_count=7&theme=radical">
 </a>
 <a href="https://github.com/ArielBADs">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ArielBADs&show_icons=true&theme=radical&count_private=true">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArielBADs&show_icons=true&theme=radical&count_private=true">
 </a>
   </center>
 </div>
