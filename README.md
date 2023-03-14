@@ -33,7 +33,7 @@ class SobreMim extends Developer {
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBADs&layout=compact&langs_count=7&theme=radical">
 </a>
 <a href="https://github.com/ArielBADs">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArielBADs&show_icons=true&theme=radical&count_private=true">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ArielBADs&show_icons=true&theme=radical&count_private=true">
 </a>
   </center>
 </div>
@@ -43,7 +43,7 @@ class SobreMim extends Developer {
 [linkedin]: https://www.linkedin.com/in/ariel-vieira-32aa5b232
 <br>
 
-#### Rede Sociais!
+#### Rede Sociais:
 
 🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
