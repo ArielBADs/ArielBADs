@@ -50,5 +50,3 @@ sobre_mim = {
 🐦 [Twitter][twitter] **|** 
 📷 [Instagram][instagram] **|** 
 👔 [Linkedin][linkedin]
-
-![Snake animation](https://raw.githubusercontent.com/Asmit2952/Asmit2952/28523ac12320984be48abc487bb6e1a83ec5947a/github-contribution-grid-snake.svg)
