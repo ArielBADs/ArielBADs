@@ -27,19 +27,6 @@ sobre_mim = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
 
-
-## **GitHub Estatísticas**
-<div>
- <center>
-<a href="https://github.com/ArielBADs">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBADs&layout=compact&langs_count=7&theme=radical">
-</a>
-<a href="https://github.com/ArielBADs">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ArielBADs&show_icons=true&theme=radical&count_private=true">
-</a>
-  </center>
-</div>
-
 [twitter]: https://twitter.com/ArielVieira19
 [instagram]: https://www.instagram.com/arielvieira_ofc
 [linkedin]: https://www.linkedin.com/in/ariel-vieira-32aa5b232
