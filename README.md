@@ -8,10 +8,10 @@ I'm studying Computer Engineering at CIn-UFPE, and in my free time I study cyber
 
 ```python
 about_me = {
-  'Nome'     : "Ariel Vieira",
-  'Curso'    : "Computer Engineering",
-  'Estudos'  : "CIn-UFPE",
-  'Local'    : "Recife-PE"
+  'Name'     : "Ariel Vieira",
+  'Course'    : "Computer Engineering",
+  'Studies'  : "CIn-UFPE",
+  'Location'    : "Recife-PE"
 }
 ```
 
