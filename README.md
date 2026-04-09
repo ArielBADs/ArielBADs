@@ -1,4 +1,4 @@
-### Olá 👋, sou Ariel
+### Hello👋, I'm Ariel
 
 I'm studying Computer Engineering at CIn-UFPE, and in my free time I study cybersecurity.
 
