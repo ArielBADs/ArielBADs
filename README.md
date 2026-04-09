@@ -26,6 +26,7 @@ about_me = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png"></code>
+
 [twitter]: https://twitter.com/ArielVieira19
 [instagram]: https://www.instagram.com/arielvieira_ofc
 [linkedin]: https://www.linkedin.com/in/ariel-vieira-32aa5b232
