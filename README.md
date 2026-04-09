@@ -32,7 +32,6 @@ about_me = {
 [linkedin]: https://www.linkedin.com/in/ariel-vieira-32aa5b232
 <br>
 #### Social media
-
 🐦 [Twitter][twitter] **|** 
 📷 [Instagram][instagram] **|** 
 👔 [Linkedin][linkedin]
