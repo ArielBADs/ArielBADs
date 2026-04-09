@@ -1,15 +1,15 @@
 ### Olá 👋, sou Ariel
 
-Curso Engenharia da computação no CIn-UFPE, nas horas vagas estudo desenvolvimento de jogos e API's.
+I'm studying Computer Engineering at CIn-UFPE, and in my free time I study cybersecurity.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Informações
 
 <img align="right" width="300" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FbGgsc5mWoryfgKBx1u%2Fgiphy.gif&f=1&nofb=1&ipt=e643e1b66178a9bce9cbcc4ee1ad0a2f398393b535d04c5deaf65d803ce3fed6&ipo=images" />
 
 ```python
-sobre_mim = {
+about_me = {
   'Nome'     : "Ariel Vieira",
-  'Curso'    : "Engenharia da Computação",
+  'Curso'    : "Computer Engineering",
   'Estudos'  : "CIn-UFPE",
   'Local'    : "Recife-PE"
 }
